@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Затерянный мир 13-31 -->
+<?xml-stylesheet type="text/css" href="svg.css"?>
+<svg x="0" y="10" width="380" height="195" baseProfile="full" version="1.1" xmlns="http://www.w3.org/2000/svg"><g transform="scale(1.33)">
+<line x1="20" y1="15" x2="260" y2="15"/>
+<text x="68" y="14">B</text>
+<text x="208" y="14">B</text>
+<line x1="20" y1="180" x2="260" y2="180"/>
+<line x1="20" y1="15" x2="20" y2="180"/>
+<text x="17" y="11">i</text>
+<text x="17" y="190">k</text>
+<path d="M 17,15 L 20,19 23,15 17,15"  fill="black"/>
+<path d="M 17,180 L 20,176 23,180 17,180"  fill="black"/>
+<path d="M 17,155 L 20,149 23,155 20,161 17,155 Z" />
+<line x1="17" y1="155" x2="23" y2="155"/>
+<text x="2" y="157">ik</text>
+<text x="24" y="157">1</text>
+<line x1="260" y1="15" x2="260" y2="180"/>
+<text x="257" y="11">j</text>
+<text x="257" y="190">m</text>
+<path d="M 257,15 L 260,19 263,15 257,15"  fill="black"/>
+<path d="M 257,180 L 260,176 263,180 257,180"  fill="black"/>
+<path d="M 257,155 L 260,149 263,155 260,161 257,155 Z" />
+<line x1="257" y1="155" x2="263" y2="155"/>
+<text x="242" y="157">jm</text>
+<text x="264" y="157">1</text>
+<line x1="140" y1="15" x2="140" y2="55"/>
+<text x="137" y="11">a</text>
+<path d="M 137,15 L 140,19 143,15 137,15"  fill="black"/>
+<path d="M 140,35 L 137,29 143,29 137,41 143,41 140,35 Z" />
+<text x="124" y="37">ab</text>
+<text x="144" y="37">bn</text>
+<line x1="70" y1="55" x2="210" y2="55"/>
+<circle cx="70" cy="55" r="2" fill-opacity="0"/>
+<text x="67" y="51">c</text>
+<text x="103" y="54">A</text>
+<circle cx="140" cy="55" r="2" fill-opacity="0"/>
+<text x="137" y="67">b</text>
+<text x="163" y="54">A</text>
+<circle cx="210" cy="55" r="2" fill-opacity="0"/>
+<text x="207" y="51">d</text>
+<text x="137" y="176">n</text>
+<line x1="130" y1="180" x2="150" y2="180"/>
+<line x1="130" y1="180" x2="125" y2="185"/>
+<line x1="135" y1="180" x2="130" y2="185"/>
+<line x1="140" y1="180" x2="135" y2="185"/>
+<line x1="145" y1="180" x2="140" y2="185"/>
+<line x1="150" y1="180" x2="145" y2="185"/>
+<line x1="70" y1="55" x2="70" y2="95"/>
+<path d="M 70,75 L 67,69 73,69 67,81 73,81 70,75 Z" />
+<text x="54" y="77">ce</text>
+<text x="74" y="77">eg</text>
+<circle cx="70" cy="89" r="2"/>
+<circle cx="70" cy="95" r="6"  fill="lightgray"/>
+<text x="67" y="98">т</text>
+<path d="M 70,130 L 67,124 73,124 67,136 73,136 70,130 Z" />
+<text x="54" y="132">eg</text>
+<text x="74" y="132">1</text>
+<text x="67" y="110">e</text>
+<text x="67" y="176">g</text>
+<line x1="60" y1="180" x2="80" y2="180"/>
+<line x1="60" y1="180" x2="55" y2="185"/>
+<line x1="65" y1="180" x2="60" y2="185"/>
+<line x1="75" y1="180" x2="70" y2="185"/>
+<line x1="80" y1="180" x2="75" y2="185"/>
+<text x="64" y="186">т</text>
+<line x1="210" y1="55" x2="210" y2="95"/>
+<path d="M 210,70 L 207,64 213,64 207,76 213,76 210,70 Z" />
+<text x="194" y="72">df</text>
+<text x="214" y="72">fh</text>
+<circle cx="210" cy="89" r="2"/>
+<circle cx="210" cy="95" r="6"  fill="lightgray"/>
+<text x="207" y="98">т</text>
+<path d="M 210,130 L 207,124 213,124 207,136 213,136 210,130 Z" />
+<text x="194" y="132">fh</text>
+<text x="214" y="132">1</text>
+<text x="207" y="110">f</text>
+<text x="207" y="176">h</text>
+<line x1="200" y1="180" x2="220" y2="180"/>
+<line x1="200" y1="180" x2="195" y2="185"/>
+<line x1="205" y1="180" x2="200" y2="185"/>
+<line x1="215" y1="180" x2="210" y2="185"/>
+<line x1="220" y1="180" x2="215" y2="185"/>
+<text x="204" y="186">т</text>
+<path d="M 140,80 L 137,74 143,74 137,86 143,86 140,80 Z" />
+<text x="124" y="83">bn</text>
+<text x="144" y="83">ce+df</text>
+<path d="M 140,155 L 137,149 143,149 137,161 143,161 140,155 Z" />
+<text x="124" y="157">an</text>
+<text x="144" y="157">ab</text>
+<text x="284" y="158">0=</text>
+<path d="M 297,155 L 300,149 303,155 300,161 297,155 Z" />
+<line x1="297" y1="155" x2="303" y2="155"/>
+<text x="304" y="158">ik+</text>
+<path d="M 330,155 L 327,149 333,149 327,161 333,161 330,155 Z" />
+<text x="334" y="158">an+</text>
+<path d="M 357,155 L 360,149 363,155 360,161 357,155 Z" />
+<line x1="357" y1="155" x2="363" y2="155"/>
+<text x="364" y="158">jm</text>
+</g></svg>

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Затерянный мир 13-31 -->
+<?xml-stylesheet type="text/css" href="svg.css"?>
+<svg x="0" y="10" width="450" height="120" baseProfile="full" version="1.1" xmlns="http://www.w3.org/2000/svg"><g>
+<line x1="30" y1="10" x2="50" y2="10"/>
+<line x1="30" y1="10" x2="35" y2="5"/>
+<line x1="35" y1="10" x2="40" y2="5"/>
+<line x1="40" y1="10" x2="45" y2="5"/>
+<line x1="45" y1="10" x2="50" y2="5"/>
+<line x1="50" y1="10" x2="55" y2="5"/>
+<line x1="40" y1="10" x2="40" y2="60"/>
+<path d="M 37,10 L 40,14 43,10 37,10"  fill="black"/>
+<circle cx="40" cy="60" r="20" fill-opacity="0"/>
+<circle cx="40" cy="60" r="2" fill-opacity="0"/>
+<line x1="20" y1="60" x2="20" y2="110"/>
+<line x1="60" y1="60" x2="60" y2="110"/>
+<path d="M 38,60 A 2 2 0 0 1 42 64" fill-opacity="0"  transform="rotate(135)"/>
+<line x1="30" y1="110" x2="50" y2="110"/>
+<line x1="30" y1="110" x2="25" y2="115"/>
+<line x1="35" y1="110" x2="30" y2="115"/>
+<line x1="40" y1="110" x2="35" y2="115"/>
+<line x1="45" y1="110" x2="40" y2="115"/>
+<line x1="50" y1="110" x2="45" y2="115"/>
+<line x1="100" y1="10" x2="120" y2="10"/>
+<line x1="100" y1="10" x2="105" y2="5"/>
+<line x1="105" y1="10" x2="110" y2="5"/>
+<line x1="110" y1="10" x2="115" y2="5"/>
+<line x1="115" y1="10" x2="120" y2="5"/>
+<line x1="120" y1="10" x2="125" y2="5"/>
+<line x1="110" y1="10" x2="110" y2="55"/>
+<path d="M 107,10 L 110,14 113,10 107,10"  fill="black"/>
+<circle cx="110" cy="55" r="20" fill-opacity="0"/>
+<circle cx="110" cy="55" r="2" fill-opacity="0"/>
+<path d="M 108,55 A 2 2 0 0 1 112 59" fill-opacity="0"  transform="rotate(135)"/>
+<line x1="90" y1="55" x2="90" y2="95"/>
+<line x1="130" y1="55" x2="130" y2="115"/>
+<line x1="100" y1="110" x2="120" y2="110"/>
+<line x1="100" y1="110" x2="95" y2="115"/>
+<line x1="105" y1="110" x2="100" y2="115"/>
+<line x1="110" y1="110" x2="105" y2="115"/>
+<line x1="115" y1="110" x2="110" y2="115"/>
+<line x1="120" y1="110" x2="115" y2="115"/>
+<line x1="220" y1="10" x2="240" y2="10"/>
+<line x1="220" y1="10" x2="225" y2="5"/>
+<line x1="225" y1="10" x2="230" y2="5"/>
+<line x1="230" y1="10" x2="235" y2="5"/>
+<line x1="235" y1="10" x2="240" y2="5"/>
+<line x1="240" y1="10" x2="245" y2="5"/>
+<line x1="230" y1="10" x2="230" y2="50"/>
+<path d="M 227,10 L 230,14 233,10 227,10"  fill="black"/>
+<circle cx="230" cy="50" r="2" fill-opacity="0"/>
+<path d="M 228,50 A 2 2 0 0 1 232 54" fill-opacity="0"  transform="rotate(135)"/>
+<line x1="205" y1="50" x2="255" y2="50"/>
+<line x1="205" y1="50" x2="205" y2="90"/>
+<circle cx="205" cy="50" r="2" fill-opacity="0"/>
+<path d="M 203,45 A 2 2 0 0 1 207 49" fill-opacity="0"  transform="rotate(-45)"/>
+<line x1="255" y1="50" x2="255" y2="90"/>
+<circle cx="255" cy="50" r="2" fill-opacity="0"/>
+<path d="M 253,45 A 2 2 0 0 1 257 49" fill-opacity="0"  transform="rotate(-45)"/>
+<line x1="220" y1="110" x2="240" y2="110"/>
+<line x1="220" y1="110" x2="215" y2="115"/>
+<line x1="225" y1="110" x2="220" y2="115"/>
+<line x1="230" y1="110" x2="225" y2="115"/>
+<line x1="235" y1="110" x2="230" y2="115"/>
+<line x1="240" y1="110" x2="235" y2="115"/>
+<line x1="290" y1="10" x2="310" y2="10"/>
+<line x1="290" y1="10" x2="295" y2="5"/>
+<line x1="295" y1="10" x2="300" y2="5"/>
+<line x1="300" y1="10" x2="305" y2="5"/>
+<line x1="305" y1="10" x2="310" y2="5"/>
+<line x1="310" y1="10" x2="315" y2="5"/>
+<line x1="300" y1="10" x2="300" y2="50"/>
+<path d="M 297,10 L 300,14 303,10 297,10"  fill="black"/>
+<circle cx="300" cy="50" r="2" fill-opacity="0"/>
+<path d="M 298,50 A 2 2 0 0 1 302 54" fill-opacity="0"  transform="rotate(135)"/>
+<line x1="280" y1="35" x2="320" y2="65"/>
+<line x1="280" y1="35" x2="280" y2="75"/>
+<circle cx="280" cy="35" r="2" fill-opacity="0"/>
+<path d="M 278,30 A 2 2 0 0 1 282 34" fill-opacity="0"  transform="rotate(-45)"/>
+<line x1="320" y1="65" x2="320" y2="105"/>
+<circle cx="320" cy="65" r="2" fill-opacity="0"/>
+<path d="M 318,60 A 2 2 0 0 1 322 64" fill-opacity="0"  transform="rotate(-45)"/>
+<line x1="290" y1="110" x2="310" y2="110"/>
+<line x1="290" y1="110" x2="285" y2="115"/>
+<line x1="295" y1="110" x2="290" y2="115"/>
+<line x1="300" y1="110" x2="295" y2="115"/>
+<line x1="305" y1="110" x2="300" y2="115"/>
+<line x1="310" y1="110" x2="305" y2="115"/>
+<line x1="360" y1="10" x2="380" y2="10"/>
+<line x1="360" y1="10" x2="365" y2="5"/>
+<line x1="365" y1="10" x2="370" y2="5"/>
+<line x1="370" y1="10" x2="375" y2="5"/>
+<line x1="375" y1="10" x2="380" y2="5"/>
+<line x1="380" y1="10" x2="385" y2="5"/>
+<line x1="370" y1="10" x2="370" y2="50"/>
+<path d="M 367,10 L 370,14 373,10 367,10"  fill="black"/>
+<circle cx="370" cy="50" r="2" fill-opacity="0"/>
+<path d="M 366,50 A 2 2 0 0 1 370 54" fill-opacity="0"  transform="rotate(180)"/>
+<line x1="355" y1="30" x2="385" y2="70"/>
+<line x1="355" y1="30" x2="355" y2="70"/>
+<circle cx="355" cy="30" r="2" fill-opacity="0"/>
+<path d="M 351,26 A 2 2 0 0 1 355 30" fill-opacity="0"  transform="rotate(-90)"/>
+<line x1="385" y1="70" x2="385" y2="110"/>
+<circle cx="385" cy="70" r="2" fill-opacity="0"/>
+<path d="M 385,66 A 2 2 0 0 1 389 70" fill-opacity="0"  transform="rotate(0)"/>
+<line x1="360" y1="110" x2="380" y2="110"/>
+<line x1="360" y1="110" x2="355" y2="115"/>
+<line x1="365" y1="110" x2="360" y2="115"/>
+<line x1="370" y1="110" x2="365" y2="115"/>
+<line x1="375" y1="110" x2="370" y2="115"/>
+<line x1="380" y1="110" x2="375" y2="115"/>
+</g></svg>

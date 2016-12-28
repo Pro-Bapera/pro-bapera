@@ -1,0 +1,93 @@
+.i{
+  display:inline-block;
+  position:relative;
+  background-repeat:no-repeat;
+  text-indent:0px;
+}
+.e900 {
+  display:inline-block;
+  position:relative;
+  width:12px;
+  height:12px;
+}
+.e901 {/*авторизация - общественное достояние*/
+  background:url(../svg/e801.svg);
+  background-repeat:no-repeat;
+  width:12px;
+  height:12px;
+  background-size: 12px 12px;
+}
+.e902 {/*авторизация - перевод в общественное достояние*/
+  background:url(../svg/e802.svg);
+  background-repeat:no-repeat;
+  width:12px;
+  height:12px;
+  background-size: 12px 12px;
+}
+.e903 {/*авторизация - А.теД открытая лицензия максимальная*/
+  display:inline-block;
+  position:relative;
+  background:url(../svg/e803.svg);
+  background-repeat:no-repeat;
+  width:81px;
+  height:16px;
+  background-size: 81px 16px;
+}
+.e904 {/*авторизация - А.теД открытая лицензия некоммерческость, малый размер*/
+  display:inline-block;
+  position:relative;
+  background:url(../svg/e804.svg);
+  background-repeat:no-repeat;
+  width:51px;
+  height:10px;
+  background-size: 51px 10px;
+}
+.e905 {/*авторизация - А.теД открытая лицензия некоммерческость, обычный размер*/
+  display:inline-block;
+  position:relative;
+  background:url(../svg/e804.svg);
+  background-repeat:no-repeat;
+  width:81px;
+  height:16px;
+  background-size: 81px 16px;
+}
+.j{
+  display:inline-block;
+  position:relative;
+  background-repeat:no-repeat;
+  width:20px;
+  height:29px;
+  background-size: 20px 29px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+.e000 {background:url(../svg/e000.svg);}
+.e001 {background:url(../svg/e001.svg);}
+.e002 {background:url(../svg/e002.svg);}
+.e003 {background:url(../svg/e003.svg);}
+.e004 {background:url(../svg/e004.svg);}
+.e005 {background:url(../svg/e005.svg);}
+.e006 {background:url(../svg/e006.svg);}
+.e007 {background:url(../svg/e007.svg);}
+.e008 {background:url(../svg/e008.svg);}
+.e009 {background:url(../svg/e009.svg);}
+.e010 {background:url(../svg/e010.svg);}
+.e011 {background:url(../svg/e011.svg);}
+.e012 {background:url(../svg/e012.svg);}
+.e013 {background:url(../svg/e013.svg);}
+.e014 {background:url(../svg/e014.svg);}
+.e015 {background:url(../svg/e015.svg);}
+.e016 {background:url(../svg/e016.svg);}
+.e017 {background:url(../svg/e017.svg);}
+.e018 {background:url(../svg/e018.svg);}
+.e019 {background:url(../svg/e019.svg);}
+.e020 {background:url(../svg/e020.svg);}
+.e021 {background:url(../svg/e021.svg);}
+.e022 {background:url(../svg/e022.svg);}
+.e023 {background:url(../svg/e023.svg);}
+.e024 {background:url(../svg/e024.svg);}
+.e025 {background:url(../svg/e025.svg);}
+.e026 {background:url(../svg/e026.svg);}
+.e027 {background:url(../svg/e027.svg);}
+.e028 {background:url(../svg/e028.svg);}
+.e029 {background:url(../svg/e029.svg);}

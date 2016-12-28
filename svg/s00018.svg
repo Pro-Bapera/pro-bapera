@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Затерянный мир 13-31 -->
+<?xml-stylesheet type="text/css" href="svg.css"?>
+<svg x="0" y="10" width="450" height="185" baseProfile="full" version="1.1" xmlns="http://www.w3.org/2000/svg"><g>
+<line x1="75" y1="10" x2="95" y2="10"/>
+<line x1="75" y1="10" x2="80" y2="5"/>
+<line x1="80" y1="10" x2="85" y2="5"/>
+<line x1="85" y1="10" x2="90" y2="5"/>
+<line x1="90" y1="10" x2="95" y2="5"/>
+<line x1="95" y1="10" x2="100" y2="5"/>
+<line x1="45" y1="90" x2="65" y2="90"/>
+<line x1="45" y1="90" x2="40" y2="95"/>
+<line x1="50" y1="90" x2="45" y2="95"/>
+<line x1="55" y1="90" x2="50" y2="95"/>
+<line x1="60" y1="90" x2="55" y2="95"/>
+<line x1="65" y1="90" x2="60" y2="95"/>
+<line x1="75" y1="10" x2="425" y2="10"/>
+<line x1="25" y1="50" x2="25" y2="90"/>
+<path d="M 25,30 L 22,24 28,24 22,36 28,36 25,30" fill-opacity="0"/>
+<text x="28" y="71">2Ƒ</text>
+<path d="M 28,70 L 22,70 25,64 28,70 25,76 22,70" fill-opacity="0"/>
+<text x="28" y="31">0Ƒ</text>
+<path d="M 20,70 L 17,64 23,64 17,76 23,76 20,70" fill-opacity="0"/>
+<text x="3" y="71">2Ƒ</text>
+<line x1="75" y1="10" x2="75" y2="90"/>
+<path d="M 75,30 L 72,24 78,24 72,36 78,36 75,30" fill-opacity="0"/>
+<text x="78" y="31">0Ƒ</text>
+<path d="M 78,70 L 72,70 75,64 78,70 75,76 72,70" fill-opacity="0"/>
+<text x="78" y="71">2Ƒ</text>
+<path d="M 70,70 L 67,64 73,64 67,76 73,76 70,70" fill-opacity="0"/>
+<text x="53" y="71">2Ƒ</text>
+<line x1="25" y1="50" x2="75" y2="50" stroke="gray"/>
+<line x1="75" y1="50" x2="375" y2="90" stroke="gray"/>
+<line x1="375" y1="90" x2="425" y2="90" stroke="gray"/>
+<line x1="225" y1="10" x2="225" y2="130"/>
+<path d="M 225,40 L 222,34 228,34 222,46 228,46 225,40" fill-opacity="0"/>
+<text x="228" y="41">1Ƒ</text>
+<path d="M 228,100 L 222,100 225,94 228,100 225,106 222,100" fill-opacity="0"/>
+<text x="228" y="101">1Ƒ</text>
+<path d="M 220,100 L 217,94 223,94 217,106 223,106 220,100" fill-opacity="0"/>
+<text x="203" y="101">2Ƒ</text>
+<circle cx="25" cy="50" r="6"/>
+<text x="21" y="50">т</text>
+<text x="20" y="94">∕т∕</text>
+<circle cx="75" cy="50" r="6"/>
+<text x="71" y="49">т</text>
+<text x="70" y="94">∕т∕</text>
+<circle cx="225" cy="70" r="6"/>
+<text x="221" y="69">т</text>
+<text x="220" y="134">∕т∕</text>
+<line x1="75" y1="90" x2="375" y2="170"/>
+<line x1="25" y1="90" x2="75" y2="90"/>
+<line x1="375" y1="10" x2="375" y2="170"/>
+<path d="M 375,50 L 372,44 378,44 372,56 378,56 375,50" fill-opacity="0"/>
+<text x="378" y="51">2Ƒ</text>
+<path d="M 378,130 L 372,130 375,124 378,130 375,136 372,130" fill-opacity="0"/>
+<text x="378" y="131">0Ƒ</text>
+<path d="M 370,130 L 367,124 373,124 367,136 373,136 370,130" fill-opacity="0"/>
+<text x="353" y="131">2Ƒ</text>
+<circle cx="375" cy="90" r="6"/>
+<text x="371" y="89">т</text>
+<text x="370" y="174">∕т∕</text>
+<line x1="425" y1="10" x2="425" y2="90"/>
+<path d="M 425,50 L 422,44 428,44 422,56 428,56 425,50" fill-opacity="0"/>
+<text x="428" y="51">2Ƒ</text>
+<path d="M 428,130 L 422,130 425,124 428,130 425,136 422,130" fill-opacity="0"/>
+<text x="428" y="131">0Ƒ</text>
+<path d="M 420,130 L 417,124 423,124 417,136 423,136 420,130" fill-opacity="0"/>
+<text x="403" y="131">2Ƒ</text>
+<circle cx="425" cy="90" r="6"/>
+<text x="421" y="89">т</text>
+<text x="420" y="174">∕т∕</text>
+</g></svg>

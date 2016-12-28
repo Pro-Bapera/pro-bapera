@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Затерянный мир 13-31 -->
+<?xml-stylesheet type="text/css" href="svgSymbol.css"?>
+<svg x="0" y="0" width="20" height="29" baseProfile="full" version="1.1" xmlns="http://www.w3.org/2000/svg"><g>
+<rect x="0" y="0" width="20" height="29" fill="lightgrey" stroke="none" stroke-width="0"/>
+ <text x="2" y="7" style="font-size:9px">28</text>
+ <text x="2" y="14" style="font-size:9px">28</text>
+ <text x="2" y="21" style="font-size:9px">28</text>
+ <text x="2" y="28" style="font-size:9px">28</text>
+ <text x="10" y="20" style="font-size:17px">+</text>
+ <text x="10" y="20" style="font-size:17px">H</text>
+
+<g transform="translate(4,-2) rotate(90)">
+ <text>{</text>
+</g>
+<g transform="translate(4,23) rotate(90)">
+ <text>}</text>
+</g>
+<g transform="translate(4,2) rotate(90)">
+ <text>‘</text>
+</g>
+<g transform="translate(4,22) rotate(90)">
+ <text>’</text>
+</g>
+<g transform="translate(4,25) rotate(90)">
+ <text>;</text>
+</g>
+</g></svg>
+
+<text font-weight="bold">
+ <tspan x="5" y="-1" rotate="90">{</tspan>
+ <tspan x="6" y="23" rotate="90">}</tspan>
+</text>

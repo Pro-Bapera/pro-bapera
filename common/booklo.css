@@ -1,0 +1,71 @@
+#FrD, #FrC, #ReferBox{/*оглавление обзор*/
+  top: 0.3%;
+  height: 47.3%;
+  left: 0.2%;
+  width: 23.95%;
+  z-index: 500;
+}
+#WiderD{top: 0.5%;left: 22.4%;}
+#FrE {/*опус*/
+  top: 0.3%;
+  height: 95.4%;
+  left: 24.65%;
+  width: 37%;
+  z-index: 500;
+  font-family: "Times New Roman";
+  font-size: 16px;
+  padding-bottom: -50px;
+}
+#WiderE{top: 0.3%;left: 59.6%;}
+#FrF {/*рассмотрение*/
+  top: 0.3%;
+  height: 95.4%;
+  left: 62.1%;
+  width: 37%;
+  z-index: 500;
+  font-family: "Times New Roman";
+  font-size: 16px;
+  padding-bottom: -50px;
+}
+#WiderF{top: 0.3%;left: 97%;}
+#FrK, #FrJ, #ReRefBox {/*оглавление обзор*/
+  top: 48.39%;
+  height: 47.3%;
+  left: 0.2%;
+  width: 23.95%;
+  z-index: 500;
+}
+#WiderK{top: 48.6%;left: 22.4%;}
+#FrL, #SearBox {/*сноски*/
+  top: 80%;
+  height: 15.9%;
+  left: 24.65%;
+  width: 37%;
+  z-index: 500;
+  visibility: visible;
+  font-family: "Times New Roman";
+  font-size: 13px;
+  font-weight: 200;
+}
+#WiderL{top: 80%;left: 59.6%;}
+#FrM, #FrZZ,#SentBox {/*рассуждения*/
+  top: 80%;
+  height: 15.9%;
+  left: 62.1%;
+  width: 37%;
+  z-index: 500;
+}
+#WiderM{top: 80%;left: 97%;}
+#FrD,#FrE,#FrF,#FrK{visibility: visible;}
+#ReferBox, #ReRefBox {
+  visibility: hidden;
+  z-index: 601;
+  background-color: #F8FFFF;
+  border: 2px solid #888888;
+}
+#SearBox, #SentBox,#FrJ,#FrC{
+  visibility: hidden;
+  z-index: 600;
+  background-color: #FFFFF8;
+  border: 2px solid #888888;
+}

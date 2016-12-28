@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- авторский знак Общественное достояние -->
+<svg width="81" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(0,-1036.3622)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       x="0.5"
+       y="1036.8622"
+       width="80"
+       height="15"
+       rx="8"
+       ry="8"
+    />
+    <path
+       d="m 53.999998,1044.3622 a 5.5,5.5 0 0 1 -5.5,5.5 5.5,5.5 0 0 1 -5.5,-5.5 5.5,5.5 0 0 1 5.5,-5.5 5.5,5.5 0 0 1 5.5,5.5 z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 51.13058,1040.5065 0.168335,2.5034 -0.168335,0 q -0.336672,-1.1241 -0.961143,-1.6182 -0.624471,-0.4942 -1.498731,-0.4942 -0.733074,0 -1.324964,0.3747 -0.59189,0.3693 -0.933992,1.1838 -0.336671,0.8145 -0.336671,2.0254 0,0.9992 0.320381,1.7323 0.32038,0.733 0.961142,1.124 0.646192,0.391 1.47158,0.391 0.716784,0 1.265232,-0.3041 0.548449,-0.3095 1.205501,-1.2218 l 0.168336,0.1086 q -0.553879,0.9829 -1.292384,1.439 -0.738505,0.4561 -1.753949,0.4561 -1.829972,0 -2.834556,-1.3575 -0.749365,-1.01 -0.749365,-2.3784 0,-1.1023 0.494147,-2.0255 0.494146,-0.9231 1.357546,-1.4281 0.868829,-0.5105 1.895134,-0.5105 0.798236,0 1.574753,0.391 0.228067,0.1195 0.325811,0.1195 0.146615,0 0.255218,-0.1032 0.141185,-0.1466 0.200917,-0.4073 l 0.190057,0 z" />
+    <path
+       d="m 10.823127,1046.0678 -3.6043896,0 -0.631626,1.4692 q -0.233427,0.5423 -0.233427,0.8101 0,0.2128 0.1991,0.3776 0.205965,0.1579 0.878784,0.206 l 0,0.254 -2.93157,0 0,-0.254 q 0.583568,-0.103 0.755205,-0.2678 0.350141,-0.3295 0.775802,-1.3388 l 3.274846,-7.6619 0.240292,0 3.2405176,7.7443 q 0.391334,0.9337 0.707147,1.2152 0.322679,0.2746 0.892515,0.309 l 0,0.254 -3.673044,0 0,-0.254 q 0.556106,-0.027 0.74834,-0.1854 0.199099,-0.1579 0.199099,-0.3845 0,-0.3021 -0.27462,-0.9543 l -0.562971,-1.3387 z m -0.192234,-0.5081 -1.5790656,-3.7623 -1.620259,3.7623 3.1993246,0 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 15.509071,1047.3528 q 0.322679,0 0.542375,0.2265 0.219696,0.2197 0.219696,0.5356 0,0.3158 -0.226562,0.5423 -0.219696,0.2197 -0.535509,0.2197 -0.315813,0 -0.542375,-0.2197 -0.219696,-0.2265 -0.219696,-0.5423 0,-0.3227 0.219696,-0.5424 0.226562,-0.2197 0.542375,-0.2197 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 16.309885,1042.3959 5.437479,0 0.27462,1.7026 -0.308948,0 q -0.08239,-0.5149 -0.27462,-0.7964 -0.192234,-0.2814 -0.439392,-0.3707 -0.247158,-0.089 -0.844457,-0.089 l -0.54924,0 0,4.3665 q 0,0.7003 0.08239,0.8925 0.08925,0.1854 0.281485,0.2472 0.192234,0.062 0.878785,0.082 l 0,0.254 -3.419021,0 0,-0.254 q 0.659088,-0.014 0.844457,-0.2129 0.192234,-0.1991 0.192234,-1.0092 l 0,-4.3665 -0.562971,0 q -0.590434,0 -0.803264,0.076 -0.212831,0.069 -0.411931,0.3432 -0.192234,0.2678 -0.329544,0.8376 l -0.308947,0 0.260889,-1.7026 z" />
+    <path
+       d="m 23.614781,1044.7645 q -0.0069,1.4006 0.679685,2.197 0.686551,0.7963 1.613394,0.7963 0.617895,0 1.071018,-0.3364 0.459989,-0.3432 0.768937,-1.1671 l 0.21283,0.1373 q -0.144175,0.9406 -0.837591,1.7164 -0.693416,0.7689 -1.736973,0.7689 -1.132808,0 -1.942937,-0.8788 -0.803264,-0.8856 -0.803264,-2.3754 0,-1.6134 0.82386,-2.5128 0.830726,-0.9062 2.080248,-0.9062 1.057288,0 1.736972,0.7002 0.679685,0.6935 0.679685,1.8606 l -4.345864,0 z m 0,-0.3982 2.910974,0 q -0.03433,-0.6042 -0.144176,-0.8513 -0.171637,-0.3845 -0.514912,-0.6042 -0.33641,-0.2197 -0.707147,-0.2197 -0.569837,0 -1.02296,0.4463 -0.446258,0.4394 -0.521779,1.2289 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 31.306083,1039.3751 7.682499,0 0,0.254 q -0.865054,0.027 -1.105346,0.2746 -0.240293,0.2472 -0.240293,1.1671 l 0,5.156 q 0,1.4967 0.171638,1.8537 0.171637,0.3502 1.112211,0.3502 l 0,2.9315 -0.233427,0 q -0.205965,-1.0161 -0.665954,-1.6408 -0.453123,-0.6179 -1.036691,-0.8307 -0.576702,-0.206 -1.386831,-0.206 l -2.375465,0 q -1.558469,0 -2.293078,0.8444 -0.727743,0.8445 -0.871919,1.8331 l -0.233427,0 0,-2.9315 q 1.105346,-0.096 1.798762,-1.3251 0.693416,-1.2289 0.96117,-3.0139 0.267755,-1.7919 0.267755,-2.9385 0,-0.6865 -0.171638,-1.0092 -0.171637,-0.3227 -0.41193,-0.4051 -0.233427,-0.082 -0.968036,-0.1098 l 0,-0.254 z m 2.238154,0.508 q -0.171637,4.0713 -0.652222,5.7121 -0.480586,1.6409 -1.290715,2.5814 l 3.446483,0 q 0.919977,0 1.09848,-0.1579 0.185369,-0.1647 0.185369,-1.0504 l 0,-7.0852 -2.787395,0 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       width="1" height="1" x="48" y="1037.3622" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       width="1" height="1" x="48" y="1050.3622" />
+  </g>
+</svg>

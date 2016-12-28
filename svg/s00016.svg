@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Затерянный мир 13-31 -->
+<?xml-stylesheet type="text/css" href="svg.css"?>
+<svg x="0" y="10" width="450" height="190" baseProfile="full" version="1.1" xmlns="http://www.w3.org/2000/svg"><g>
+<line x1="80" y1="10" x2="100" y2="10"/>
+<line x1="80" y1="10" x2="85" y2="5"/>
+<line x1="85" y1="10" x2="90" y2="5"/>
+<line x1="90" y1="10" x2="95" y2="5"/>
+<line x1="95" y1="10" x2="100" y2="5"/>
+<line x1="100" y1="10" x2="105" y2="5"/>
+<circle cx="90" cy="120" r="2" fill-opacity="0"/>
+<text x="88" y="128">o</text>
+<circle cx="90" cy="120" r="50" fill-opacity="0"/>
+<line x1="90" y1="120" x2="90" y2="10"/>
+<text x="70" y="18">LƑ+ RƑ</text>
+<line x1="90" y1="120" x2="50" y2="120" stroke="red"/>
+<text x="42" y="122">c</text>
+<text x="57" y="114" stroke="red">L</text>
+<line x1="90" y1="120" x2="140" y2="120" stroke="blue"/>
+<text x="107" y="114">R</text>
+<line x1="140" y1="120" x2="140" y2="180" stroke="blue"/>
+<text x="142" y="119">b</text>
+<text x="140" y="168" stroke="blue">RƑ</text>
+<line x1="50" y1="90" x2="50" y2="165" stroke="red"/>
+<text x="50" y="138" stroke="red">LƑ</text>
+<line x1="90" y1="120" x2="50" y2="90" stroke="blue"/>
+<text x="40" y="88">d</text>
+<text x="62" y="94" stroke="blue">R</text>
+<line x1="50" y1="90" x2="14" y2="138" stroke="blue"/>
+<text x="5" y="137">a</text>
+<text x="14" y="111" stroke="blue">RƑ</text>
+<line x1="14" y1="138" x2="50" y2="165"/>
+<text x="45" y="168">e</text>
+<line x1="270" y1="10" x2="290" y2="10"/>
+<line x1="270" y1="10" x2="275" y2="5"/>
+<line x1="275" y1="10" x2="280" y2="5"/>
+<line x1="280" y1="10" x2="285" y2="5"/>
+<line x1="285" y1="10" x2="290" y2="5"/>
+<line x1="290" y1="10" x2="295" y2="5"/>
+<circle cx="280" cy="120" r="2" fill-opacity="0"/>
+<text x="278" y="128">o</text>
+<circle cx="280" cy="120" r="50" fill-opacity="0"/>
+<line x1="280" y1="120" x2="280" y2="10"/>
+<text x="260" y="18">RƑ− LƑ</text>
+<line x1="280" y1="122" x2="320" y2="122" stroke="red"/>
+<text x="312" y="126">c</text>
+<text x="300" y="128" stroke="red">L</text>
+<line x1="280" y1="120" x2="330" y2="120" stroke="blue"/>
+<text x="302" y="114">R</text>
+<line x1="330" y1="120" x2="330" y2="180" stroke="blue"/>
+<text x="332" y="119">b</text>
+<text x="330" y="168" stroke="blue">RƑ</text>
+<line x1="280" y1="120" x2="320" y2="90" stroke="blue"/>
+<text x="320" y="88">d</text>
+<text x="290" y="103" stroke="blue">R</text>
+<line x1="320" y1="90" x2="320" y2="15" stroke="red"/>
+<text x="320" y="48" stroke="red">LƑ</text>
+<line x1="320" y1="90" x2="284" y2="42" stroke="blue"/>
+<text x="287" y="42">a</text>
+<text x="295" y="53" stroke="blue">RƑ</text>
+<line x1="284" y1="42" x2="320" y2="15"/>
+<text x="322" y="17">e</text>
+<line x1="170" y1="10" x2="190" y2="10"/>
+<line x1="170" y1="10" x2="175" y2="5"/>
+<line x1="175" y1="10" x2="180" y2="5"/>
+<line x1="180" y1="10" x2="185" y2="5"/>
+<line x1="185" y1="10" x2="190" y2="5"/>
+<line x1="190" y1="10" x2="195" y2="5"/>
+<circle cx="180" cy="60" r="20" fill-opacity="0"/>
+<circle cx="180" cy="60" r="2" fill-opacity="0"/>
+<line x1="180" y1="60" x2="180" y2="10"/>
+<text x="180" y="18">RƑ</text>
+<line x1="200" y1="60" x2="200" y2="100" stroke="blue"/>
+<circle cx="200" cy="105" r="6"/>
+<text x="200" y="88" stroke="blue">RƑ</text>
+<line x1="180" y1="40" x2="140" y2="40" stroke="red"/>
+<text x="150" y="33" stroke="red">RƑ</text>
+<line x1="370" y1="10" x2="390" y2="10"/>
+<line x1="370" y1="10" x2="375" y2="5"/>
+<line x1="375" y1="10" x2="380" y2="5"/>
+<line x1="380" y1="10" x2="385" y2="5"/>
+<line x1="385" y1="10" x2="390" y2="5"/>
+<line x1="390" y1="10" x2="395" y2="5"/>
+<circle cx="380" cy="60" r="20" fill-opacity="0"/>
+<circle cx="380" cy="60" r="2" fill-opacity="0"/>
+<line x1="380" y1="60" x2="380" y2="10"/>
+<text x="380" y="18">0Ƒ</text>
+<line x1="400" y1="60" x2="400" y2="100" stroke="blue"/>
+<circle cx="400" cy="105" r="6"/>
+<text x="400" y="88" stroke="blue">RƑ</text>
+<line x1="400" y1="60" x2="400" y2="20" stroke="red"/>
+<text x="400" y="38" stroke="red">RƑ</text>
+</g></svg>
