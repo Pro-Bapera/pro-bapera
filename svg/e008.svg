@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Затерянный мир 13-31 -->
-<?xml-stylesheet type="text/css" href="svgSymbol.css"?>
-<svg x="0" y="0" width="20" height="29" baseProfile="full" version="1.1" xmlns="http://www.w3.org/2000/svg"><g font-weight="bold">
-<g transform="translate(4,20) rotate(90)">
- <text>}</text>
-</g>
-<g transform="translate(4,24) rotate(90)">
- <text>;</text>
-</g>
-</g></svg>
+<svg x="0" y="0" width="21" height="30" baseProfile="full" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<text style="font-family:Arial Unicode MS;font-size:16px;stroke-width:1px;">
+ <tspan x="5" y="20" rotate="90">}</tspan>
+ <tspan x="6" y="24" rotate="90" style="font-size:22px">;</tspan>
+</text>
+</svg>

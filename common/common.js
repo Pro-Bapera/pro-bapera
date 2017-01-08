@@ -2,7 +2,7 @@
 var LoadList='#'; AddList=''; FileList='';
 var FrmForLoad1='';LoadFile1=''; FrmForLoad2='';LoadFile2='';
 var MarkIdr=0; BdIdr=0; WinOpenUrl=''; WinList=0; WinBiblo=null;
-var LinkOff=0; NotLoad='';
+var LinkOff=0; NotLoad=''; MsgOrigin='';
 //------информирующее сообщение--------------------------------------------
 function Info(Txt){
   var InfId = window.top.document.getElementById('InfoBox');
@@ -659,25 +659,23 @@ function OfTo(Idr,Prm,toof) {
 }
 //------Реакция окна на событие onmessage----------------------------------
 function ONmsg(evnt) {
-//  if(evnt.origin!=='http://')
-//    {alert('Послание не оттуда '+evnt.origin);return;}
-  LoadName = UrlTest('http://localhost/pro-bapera/update/0000-00-00-000.html');
-  if(LoadName[0]==='#'){alert('нет полного образа сайта.');return;}
   var ArrayStr="";var PAelem;var PBelem;var LoadName;
+  MsgOrigin=evnt.origin;
   var List=evnt.data.substring(16);
   var Size=evnt.data.substring(12,15).trim();
+  var Part=evnt.data.substring(0,11).trim();
   var FrV=document.getElementById('FrV');
   var Array = List.split(';');
-  FrV.children[0].children[1].textContent=Size;
+  FrV.children[0].children[0].children[1].textContent=Size;
   Info('Проверить обновления: Формирование списка обновляемого-обновлённого');
   for (var j = 0; j < Array.length - 1; j++) {
-    PBelem=FrV.children[j+1].children[1];
+    PBelem=FrV.children[0].children[j+1].children[1];
     PBelem.textContent=Array[j];
   }
   Info('Проверить обновления: Выясняем обновляемое в списке');
   for (var j = 0; j < Array.length - 1; j++) {
-    PAelem=FrV.children[j+1].children[0];
-    ArrayStr='http://localhost/pro-bapera/update/'+Array[j]+'.html';
+    PAelem=FrV.children[0].children[j+1].children[0];
+    ArrayStr='http://localhost/pro-bapera/update-'+Part+'/'+Array[j]+'-'+Part+'.html';
     LoadName = UrlTest(ArrayStr);
     if(LoadName[0]==='#'){PAelem.textContent='⇓';}
     else{PAelem.textContent='⌘';}
@@ -687,23 +685,25 @@ function ONmsg(evnt) {
 //------Скачивание или просмотр данного пакета обновления------------------
 function LoadOrView(This) {
   var LnkTxt='';
+  var Part=This.parentElement.parentElement.id;
   var ElmTxt=This.parentElement.children[1].textContent;
   if(This.parentElement.children[0].textContent==='⇓'){
     if(ElmTxt.length<4){ElmTxt='0000-00-00-000';}
-    LnkTxt='http://pro-bapera.narod.ru/zip/'+ElmTxt+'.zip';
+    LnkTxt=MsgOrigin+'/zip/'+ElmTxt+'-'+Part+'.zip';
     window.open(LnkTxt, 'dwnload', 'top=0 left=100');
   }else{
-    LnkTxt='http://localhost/pro-bapera/update/'+ElmTxt;
+    LnkTxt=MsgOrigin+'/update-'+Part+'/'+ElmTxt+'-'+Part;
     LoadFrame(LnkTxt,'W');
   }
+  Info('Скачать: ['+LnkTxt+']');
 }
 //------Загрузка списка обновлений и проверка необновлённого---------------
-function UpdateScan(Sait) {
+function UpdateScan(Sait,Part) {
   var Frm=document.getElementById('FrV');if(!Frm){alert('не обнаружен фрейм: FrV');return;}
   var pScan=Frm.getElementsByTagName("p");
   var Text1=pScan[0].textContent;
   if(!Text1){alert('список обновления пуст - скачать-распаковать');return;}
-  var PaFile0='http://'+Sait+'/update/0000-00-00-000.html';
+  var PaFile0=Sait+'/update-'+Part+'/0000-00-00-000-'+Part+'.html';
   Info('Проверить обновления: Запрос '+PaFile0);
   var Frm0 = window.frames.fr00i;if(!Frm0){alert('не обнаружен iфрейм: Fr00');return;}
   var WinLoc=Frm0.location; //ie

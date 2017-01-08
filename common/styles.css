@@ -424,6 +424,14 @@ p{
   line-height:19px;
   font-family:Times New Roman;
 }
+p.f{
+  padding: 0px 0px 0px 30px;
+  font-weight: bold;
+  line-height:20px;
+  text-align:left;
+  text-indent: -23px;
+  text-height: font-size;
+}
 p.Lift{
   font-size: 800px;
   line-height:800px;
@@ -1090,8 +1098,8 @@ span.BorderRight{
 #LineFr00 {/*выдвигатель i-фрейм*/
   top: 98%;
   height: 2%;
-  left: 99.5%;
-  width: 0.5%;
+  left: 99.7%;
+  width: 0.3%;
 }
 #Fr00, #Fr11{/*i-фрейм загрузки бокс-фреймов*/
   top: 80%;
@@ -1236,9 +1244,9 @@ i{
 }
 #LineZ{/*выдвигатель меню сайтов*/
   top: 0px;
-  height: 2%;
+  height: 0.6%;
   left: 0px;
-  width: 1.5%;
+  width: 0.3%;
   z-index: 100;
 }
 #FrZ{/*меню сайтов*/

@@ -55,9 +55,10 @@
   display:inline-block;
   position:relative;
   background-repeat:no-repeat;
+  line-height:30px;
   width:20px;
-  height:29px;
-  background-size: 20px 29px;
+  height:30px;
+  background-size: 20px 30px;
   padding: 0px 0px 0px 0px;
   margin: 0px 0px 0px 0px;
 }
@@ -91,3 +92,7 @@
 .e027 {background:url(../svg/e027.svg);}
 .e028 {background:url(../svg/e028.svg);}
 .e029 {background:url(../svg/e029.svg);}
+text.simb {
+font-family:Arial Unicode MS;
+font-size:16px;
+}
