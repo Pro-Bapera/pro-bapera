@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="..\navigatory\svg0.css"?>
+<!-- Затерянный мир 13-31 -->
+<svg x="0" y="0" width="1440" height="900" baseProfile="full" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<g id="arrow" style="fill:none;stroke:#000000;stroke-width:5;stroke-opacity:1;stroke:hotpink;">
+  <path d="M 20,0 L 40,240 0,240 60,300 120,240 80,240 100,0" fill-opacity="0"/>
+</g>
+<g id="arrowbox" >
+  <rect x="-420" y="-150" width="500" height="150" rx="25" ry="25" fill-opacity="0.8" fill="white" stroke="lightgrey"/>
+</g>
+<g id="textbox" >
+  <rect x="0" y="10" width="570" height="170" rx="25" ry="25" fill-opacity="0.8" fill="white" stroke="lightgrey"/>
+</g>
+</defs>
+<g style="stroke:red;">
+  
+<g transform="translate(45 200) scale(0.5 0.5) rotate(178)">
+<use xlink:href="#arrowbox"/>
+<text style="font-family:Arial Unicode MS;font-size:30px;stroke-width:1px;stroke:hotpink;" transform="rotate(180)">
+ <tspan x="-70" y="40">кнопка скроллирования</tspan>
+ <tspan x="-70" y="70">на заглавие</tspan>
+ <tspan x="-70" y="100">структурированного</tspan>
+ <tspan x="-70" y="130">списка страниц i-Net-навигатора</tspan>
+</text>
+<use xlink:href="#arrow" transform="scale(0.25 1.1)"/>
+</g>
+
+<g transform="translate(680 210) scale(0.5 0.5) rotate(178)">
+<use xlink:href="#arrowbox"/>
+<text style="font-family:Arial Unicode MS;font-size:30px;stroke-width:1px;stroke:hotpink;" transform="rotate(180)">
+ <tspan x="-70" y="40">кнопка перехода</tspan>
+ <tspan x="-70" y="70">на данно-названную</tspan>
+ <tspan x="-70" y="100">страницу i-Net-навигатора</tspan>
+ <tspan x="-70" y="130"></tspan>
+</text>
+<use xlink:href="#arrow" transform="scale(0.25 1.1)"/>
+</g>
+
+<g transform="translate(200 60) scale(0.5 0.5) rotate(-10)">
+<use xlink:href="#textbox"/>
+<text style="font-family:Verdana;font-size:30px;stroke-width:1px;stroke:hotpink;" transform="rotate(0)">
+ <tspan x="15" y="40">панель смены страниц сайта:</tspan>
+ <tspan x="15" y="70"></tspan>
+ <tspan x="15" y="100">структура (оглавление)</tspan>
+ <tspan x="15" y="130">списка страниц i-Net-навигатора</tspan>
+ <tspan x="15" y="160"></tspan>
+</text>
+</g>
+
+<g transform="translate(1000 60) scale(0.5 0.5) rotate(-10)">
+<use xlink:href="#textbox"/>
+<text style="font-family:Verdana;font-size:30px;stroke-width:1px;stroke:hotpink;" transform="rotate(0)">
+ <tspan x="15" y="40">панель смены страниц сайта:</tspan>
+ <tspan x="15" y="70"></tspan>
+ <tspan x="15" y="100">структурированный</tspan>
+ <tspan x="15" y="130">список страниц i-Net-навигатора</tspan>
+ <tspan x="15" y="160"></tspan>
+</text>
+</g>
+
+</g>
+</svg>

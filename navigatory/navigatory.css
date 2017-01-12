@@ -166,24 +166,45 @@
   left: 79%;
   position: fixed;
 }
-/*
-div#FrE a.O0 {position:relative; left:-9px;}
-div#FrE h1{font-size:11px;font-weight:500;padding:2px 2px 2px 53px;text-indent: -18px;}
-div#FrE h2{font-size:11px;font-weight:500;padding:2px 2px 2px 53px;text-indent: -18px;}
-div#FrE h3{font-size:11px;font-weight:500;padding:2px 2px 2px 53px;text-indent: -18px;}
-div#FrE h4{font-size:11px;font-weight:500;padding:2px 2px 2px 53px;text-indent: -18px;}
-div#FrE h5{font-size:11px;font-weight:500;padding:2px 2px 2px 53px;text-indent: -18px;}
-div#FrE h6{font-size:11px;font-weight:500;padding:2px 2px 2px 53px;text-indent: -18px;}
-div#FrE a.O1 {position:relative; left:-35px;}
-div#FrE a.O2 {position:relative; left:-35px;}
-div#FrE a.O3 {position:relative; left:-35px;}
-div#FrE a.O4 {position:relative; left:-35px;}
-div#FrE a.O5 {position:relative; left:-35px;}
-div#FrE a.O6 {position:relative; left:-35px;}
-*/
 #ListWinSw{
   top: 2px;
   left: 30.2%;
   position: fixed;
   visibility: hidden;
+}
+.SvgSrabatyvateli {
+  display: inline-block;
+  position: fixed;
+  background:url(srabatyvateli.svg);
+  background-repeat:no-repeat;
+  width:100%;
+  height:100%;
+  background-size: 100% 100%;
+}
+.SvgKnopkiPaneli {
+  display: inline-block;
+  position: fixed;
+  background:url(knopkipaneli.svg);
+  background-repeat:no-repeat;
+  width:100%;
+  height:100%;
+  background-size: 100% 100%;
+}
+.SvgKnopkiStranicy {
+  display: inline-block;
+  position: fixed;
+  background:url(knopkistranicy.svg);
+  background-repeat:no-repeat;
+  width:100%;
+  height:100%;
+  background-size: 100% 100%;
+}
+.SvgFrejjmyStranicy {
+  display: inline-block;
+  position: fixed;
+  background:url(frejjmystranicy.svg);
+  background-repeat:no-repeat;
+  width:100%;
+  height:100%;
+  background-size: 100% 100%;
 }

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="svg.css"?>
+<!-- Затерянный мир 13-31 -->
+<svg x="0" y="0" width="1440" height="900" baseProfile="full" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<g id="arrow" style="fill:none;stroke:#000000;stroke-width:5;stroke-opacity:1;">
+  <path d="M 20,0 L 40,240 0,240 60,300 120,240 80,240 100,0" fill-opacity="0"/>
+</g>
+</defs>
+<g transform="translate(42 345) scale(0.5 0.5) rotate(178)">
+<text style="font-family:Arial Unicode MS;font-size:30px;stroke-width:1px;" transform="rotate(180)">
+ <tspan x="-70" y="20">кнопка</tspan>
+ <tspan x="-70" y="50">скроллирования</tspan>
+ <tspan x="-70" y="80">раздела</tspan>
+ <tspan x="-70" y="110">коллекций</tspan>
+</text>
+<use xlink:href="#arrow" transform="scale(0.25 1.4)"/>
+</g>
+
+<g transform="translate(120 220) scale(0.5 0.5) rotate(167)">
+<text style="font-family:Arial Unicode MS;font-size:30px;stroke-width:1px;" transform="rotate(180)">
+ <tspan x="-70" y="20">выдвигатель</tspan>
+ <tspan x="-70" y="50">панели</tspan>
+ <tspan x="-70" y="80">смены</tspan>
+ <tspan x="-70" y="110">страниц</tspan>
+</text>
+<use xlink:href="#arrow" transform="scale(0.25 1.5)"/>
+</g>
+
+<g transform="translate(170 140) scale(0.5 0.5) rotate(-152)">
+<text style="font-family:Arial Unicode MS;font-size:30px;stroke-width:1px;" transform="rotate(180)">
+ <tspan x="-70" y="20">меню скачивания</tspan>
+ <tspan x="-70" y="50">и</tspan>
+ <tspan x="-70" y="80">меню загрузки справки</tspan>
+ <tspan x="-70" y="110"></tspan>
+</text>
+<use xlink:href="#arrow" transform="scale(0.25 1.032)"/>
+</g>
+<g transform="translate(170 140) scale(0.5 0.5) rotate(-128)">
+<use xlink:href="#arrow" transform="scale(0.25 1.45)"/>
+</g>
+
+<g transform="translate(310 130) scale(0.5 0.5) rotate(-125)">
+<text style="font-family:Arial Unicode MS;font-size:30px;stroke-width:1px;" transform="rotate(180)">
+ <tspan x="-70" y="20">выдвигатель</tspan>
+ <tspan x="-70" y="50">панели</tspan>
+ <tspan x="-70" y="80">загруженной</tspan>
+ <tspan x="-70" y="110">справки</tspan>
+</text>
+<use xlink:href="#arrow" transform="scale(0.25 1.4)"/>
+</g>
+
+<g transform="translate(310 350) scale(0.5 0.5) rotate(-125)">
+<text style="font-family:Arial Unicode MS;font-size:30px;stroke-width:1px;" transform="rotate(180)">
+ <tspan x="-70" y="20">кнопка загрузки</tspan>
+ <tspan x="-70" y="50">списка коллекции</tspan>
+ <tspan x="-70" y="80">во фрейм коллекции</tspan>
+ <tspan x="-70" y="110"></tspan>
+</text>
+<use xlink:href="#arrow" transform="scale(0.25 1.1)"/>
+</g>
+
+<g transform="translate(950 170) scale(0.5 0.5) rotate(155)">
+<text style="font-family:Arial Unicode MS;font-size:30px;stroke-width:1px;" transform="rotate(180)">
+ <tspan x="-70" y="20">кнопка</tspan>
+ <tspan x="-70" y="50">схлопывания-расхлопывания</tspan>
+ <tspan x="-70" y="80">всей структуры</tspan>
+ <tspan x="-70" y="110">оглавления/озаглавленного</tspan>
+</text>
+<use xlink:href="#arrow" transform="scale(0.25 1.15)"/>
+</g>
+
+<g transform="translate(890 260) scale(0.5 0.5) rotate(177)">
+<text style="font-family:Arial Unicode MS;font-size:30px;stroke-width:1px;" transform="rotate(180)">
+ <tspan x="-70" y="20">кнопка</tspan>
+ <tspan x="-70" y="50">схлопывания-расхлопывания</tspan>
+ <tspan x="-70" y="80">оглавления/озаглавленного</tspan>
+ <tspan x="-70" y="110"></tspan>
+</text>
+<use xlink:href="#arrow" transform="scale(0.25 1.05)"/>
+</g>
+
+</svg>

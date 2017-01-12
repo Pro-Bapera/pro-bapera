@@ -292,61 +292,67 @@ h1{
   margin: 0px 0px 0px 0px;
   font-family: Verdana;
 	color: #9900CC;
-  font-size: 11px;
+  font-size: 12px;
   padding: 0px 0px 0px 35px;
   text-indent: -28px;
   text-align: left;
   font-weight: lighter;
+  background-color:ghostwhite;
 }
 h2{
 	margin:0px 0px 0px 0px;
 	font-family: Verdana;
-	font-size:11px;
+	font-size:12px;
   padding: 0px 0px 0px 42px;
 	text-indent:-28px;
 	text-align:left;
   font-weight: lighter;
 	color: olivedrab;
+  background-color:ghostwhite;
 }
 h3{
   margin: 0px 0px 0px 0px;
   font-family: Verdana;
-  font-size: 11px;
+  font-size: 12px;
   padding: 0px 0px 0px 49px;
   text-indent: -28px;
   text-align: left;
   font-weight: lighter;
   color: slateblue;
+  background-color:ghostwhite;
 }
 h4{
 	margin:0px 0px 0px 0px;
 	font-family: Verdana;
-	font-size:11px;
+	font-size:12px;
   padding: 0px 0px 0px 56px;
 	text-indent:-28px;
 	text-align:left;
   font-weight: lighter;
   color: #CC9900;
+  background-color:ghostwhite;
 	}
 h5{
 	margin:0px 0px 0px 0px;
 	font-family: Verdana;
 	color: #9933FF;
-	font-size:11px;
+	font-size:12px;
   padding: 0px 0px 0px 63px;
 	text-indent:-28px;
 	text-align:left;
   font-weight: lighter;
+  background-color:ghostwhite;
 	}
 h6{
 	margin:0px 0px 0px 0px;
 	font-family: Verdana;
 	color: #339966;
-	font-size:11px;
+	font-size:12px;
   padding: 0px 0px 0px 70px;
 	text-indent:-28px;
 	text-align:left;
   font-weight: lighter;
+  background-color:ghostwhite;
 	}
 h6.h7{
 	font-family: Verdana;
@@ -354,9 +360,10 @@ h6.h7{
     padding: 0px 0px 0px 77px;
 	text-indent: -28px;
 	color:#3333FF;
-	font-size:11px;
+	font-size:12px;
 	text-align:left;
   font-weight: lighter;
+  background-color:ghostwhite;
 	}
 h6.h8{
   font-family: Verdana;
@@ -364,10 +371,11 @@ h6.h8{
   padding: 0px 0px 0px 84px;
   text-indent: -28px;
   color: #CC6600;
-  font-size: 11px;
+  font-size: 12px;
   line-height: 15px;
   text-align: left;
   font-weight: lighter;
+  background-color:ghostwhite;
 }
 h6.h9{
   font-family: Verdana;
@@ -375,10 +383,11 @@ h6.h9{
   padding: 0px 0px 0px 91px;
   text-indent: -28px;
   color: #993333;
-  font-size: 11px;
+  font-size: 12px;
   line-height: 12px;
   text-align: left;
   font-weight: lighter;
+  background-color:ghostwhite;
 }
 h6.h10{
 	font-family: Verdana;
@@ -412,6 +421,7 @@ h6.hh{ /* Заголочек */
 	line-height:10px;
 	text-align:left;
   font-weight: lighter;
+  background-color:white;
 	}
 /* стилизация абзацев */
 p{
@@ -456,8 +466,11 @@ p.p{/* .p */
 }
 p.k{/* .k */
   font-family: "Courier New";
-  font-size: 11px;
-  line-height: 12px;
+  font-size: 12px;
+  line-height: 15px;
+  padding: 0px 0px 0px 0px;
+  text-indent: 0px;
+  text-align: left;
 }
 p.pt{/* пункт -36 52*/
   font-size: 12px;
@@ -503,15 +516,15 @@ p.t0{/* .t0 Текст продолжение*/
   text-align: justify;
 }
 p.t1{/* .t1 Текст перечень1*/
-  text-indent: -4px;
+  text-indent: -8px;
   text-align: justify;
-  padding-left: 30px;
+  padding-left: 50px;
   margin-right: 4px;
 }
 p.t2{/* .t2 Текст перечень2 */
-  text-indent: -4px;
+  text-indent: -8px;
   text-align: justify;
-  padding-left: 60px;
+  padding-left: 80px;
   margin-right: 4px;
 }
 p.tC{/* .tC */
@@ -898,7 +911,8 @@ span.panel{
 }
 span.h0{
 	color:#C0C0C0;
-	font-size:9px;
+	font-size:10px;
+  font-family:Verdana;
 }
 span.SubFon{
   color: #CCCCCC;
@@ -1123,7 +1137,7 @@ iframe{
 .Note{display:none;}
 i{
     font-style:inherit;
-    color: mediumslateblue;
+    color: indigo;/*goldenrod*/
 }
 .e800 {
   display:inline-block;
@@ -1271,7 +1285,7 @@ i{
   height: 48.8%;
   left: 0.2%;
   width: 44.2%;
-  z-index: 500;
+  z-index: 1000;
   background-color: #FCFFFC;
   border: 2px solid #888888;
 }
@@ -1284,7 +1298,7 @@ i{
   height: 48.8%;
   left: 45%;
   width: 54.0%;
-  z-index: 500;
+  z-index: 1000;
   background-color: #FCFFFC;
   border: 2px solid #888888;
 }
@@ -1319,4 +1333,10 @@ i{
   top: 20.3%;
   left: 79%;
   position: fixed;
+}
+#Fr2{
+  z-index: 10000;
+  top: 0.6%;
+  left: 0%;
+  border: 0px;
 }

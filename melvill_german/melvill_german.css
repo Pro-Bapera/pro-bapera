@@ -1,0 +1,36 @@
+.SvgSrabatyvateli {
+  display: inline-block;
+  position: fixed;
+  background:url(srabatyvateli.svg);
+  background-repeat:no-repeat;
+  width:100%;
+  height:100%;
+  background-size: 100% 100%;
+}
+.SvgKnopkiPaneli {
+  display: inline-block;
+  position: fixed;
+  background:url(knopkipaneli.svg);
+  background-repeat:no-repeat;
+  width:100%;
+  height:100%;
+  background-size: 100% 100%;
+}
+.SvgKnopkiStranicy {
+  display: inline-block;
+  position: fixed;
+  background:url(knopkistranicy.svg);
+  background-repeat:no-repeat;
+  width:100%;
+  height:100%;
+  background-size: 100% 100%;
+}
+.SvgFrejjmyStranicy {
+  display: inline-block;
+  position: fixed;
+  background:url(frejjmystranicy.svg);
+  background-repeat:no-repeat;
+  width:100%;
+  height:100%;
+  background-size: 100% 100%;
+}
